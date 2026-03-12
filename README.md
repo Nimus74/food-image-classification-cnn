@@ -230,7 +230,3 @@ https://github.com/Nimus74
 
 LinkedIn:  
 https://www.linkedin.com/in/francescoscarano/
-
----
-
-This project was developed as part of the **AI Engineering Master program**, focusing on practical deep learning experimentation.
